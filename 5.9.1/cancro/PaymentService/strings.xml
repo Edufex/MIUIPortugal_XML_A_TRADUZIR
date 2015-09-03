@@ -1,4 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="mibi_bill_menu_delete_item">Delete</string>
+  <string name="mibi_bill_menu_delete_item">Eliminar</string>
 </resources>
